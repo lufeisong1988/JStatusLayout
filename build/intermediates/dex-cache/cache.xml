@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_03b7ecd8ff40a1c48461d13c161fb1950a772a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_d57f92e48254d5b9d61fe44a133a486f896b5d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_e0c60aaf67bb5548b41400730c70ab6dbcf51243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_5f4a339fd5a5c1fe5df9a0169f240e20277cd351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_5dfa9107f6347e67b7ecf1042697211212d70e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_06d182db73ca6e714cabbbe6efc40d28f37aeb08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/CommonStatusContainView/jcontainview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1950c86f6f9aaa542abb0b16a620d0c20fbcffc2">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/CommonStatusContainView-jcontainview-unspecified_7bdd154602f74be37f5df9a889a131fb872b317a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_a0b45cdb825d9d6dea4936b822a11e2951a639a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_ea38dd6ec99dd3328bea6513fb30d4a5f8633bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_a585d12c4a5334d1fae051f57acbbecdfba43c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_632947375a00dfd0f07ae55e2696edb747ffc8d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_3731e5f265901113a634e3da6405898f9f85ce22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/JStatusLayout/jcontainview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1950c86f6f9aaa542abb0b16a620d0c20fbcffc2">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/JStatusLayout-jcontainview-unspecified_7bfb16dd74cfa7ae1a2907587d9ad807bd9b8817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_93c4904a4568b46fd321e6680d9e4ebb1d8c87f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_8f91bf67cd7877d6cc0ecf3d30aa79f6a4966b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_5e3fa68dd7b3b043a954bdbe530f55f4db551458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_c8cd7b79fbf53781e8557ae4c098a56ad77a2c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_5663b1c6792a29998052d2dc11839cd43e470cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_56be83349f5f0572d0f60aa4f0a4cae81e924bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/lufeisong/WorkSpace/AndroidProject/CommonStatusContainView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_003d49849e289f04fe588d8cd5169afefe06cba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/lufeisong/Documents/github_lufeisong1988/JStatusLayout/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_f8479caf5cfe640808ae3c3f98eb1a2bcbce0741.jar" />
+    </item>
+
+</items>
